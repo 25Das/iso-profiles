@@ -245,7 +245,14 @@ systemd-kcm
 >extra thunderbird
 >extra vlc
 yakuake
->extra onlyoffice-desktopeditors
+onlyoffice-desktopeditors
+zsh
+oh-my-zsh
+zsh-autosuggestions
+zsh-completions
+zsh-syntax-highlighting
+zsh-history-substring-search
+zsh-theme-powerlevel10k
 
 ## Optional dependencis for cantata
 >extra mpd       # playback
